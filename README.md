@@ -8,3 +8,4 @@ just practice for data science
  * tensorflow
  * CNTK
  * OpenCV
+
