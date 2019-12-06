@@ -5,3 +5,6 @@ just practice for data science
  * numpy
  * seaborn
  * matplotlib
+ * tensorflow
+ * CNTK
+ * OpenCV
